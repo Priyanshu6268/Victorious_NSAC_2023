@@ -46,6 +46,6 @@ This project is licensed under the MIT License. See the `LICENSE` file in the "o
 
 ## Contact
 
-- Your Name - [your_email@example.com](mailto:priyanshukumar7470@gmail.com)
+- Your Name - [priyanshukumar7470@gmail.com](mailto:priyanshukumar7470@gmail.com)
 
 
