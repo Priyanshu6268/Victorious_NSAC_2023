@@ -1,5 +1,6 @@
 
 # Orbital Debris Collector Simulation
+<img width="1437" alt="Screenshot 2023-10-08 at 12 06 03 PM" src="https://github.com/Priyanshu6268/Victorious_NSAC_2023/assets/101616959/bebd4011-2e9e-4637-91b4-db0c2801c789">
 
 ## Description
 This project is made under Nasa Space Challenge 2023.
@@ -28,7 +29,7 @@ This project involves a Unity WebGL simulation where a rover is tasked with coll
 ## Usage
 
 After opening "index.html" in a browser:
-1. [Add specific instructions for interacting with the simulation]
+1. [Explore the Simulation]
 
 ## Contributing
 
@@ -46,6 +47,6 @@ This project is licensed under the MIT License. See the `LICENSE` file in the "o
 
 ## Contact
 
-- Your Name - [priyanshukumar7470@gmail.com](mailto:priyanshukumar7470@gmail.com)
+- Priyanshu Kumar Saw - [priyanshukumar7470@gmail.com](mailto:priyanshukumar7470@gmail.com)
 
 
