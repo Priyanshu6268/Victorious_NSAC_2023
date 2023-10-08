@@ -9,7 +9,7 @@ At speeds averaging 16,000 mph, even the tiniest piece of space junk can spell d
 
 ## Demo
 
-[Explore the Universe](#) - *Insert your demo link here*
+[Explore the Universe](#) - *https://frontend-g7wvr7trz-milky-wey.vercel.app/*
 
 ## Live Project
 
