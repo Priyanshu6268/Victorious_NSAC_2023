@@ -2,6 +2,7 @@
 # Orbital Debris Collector Simulation
 
 ## Description
+This project is made under Nasa Space Challenge 2023.
 
 This project involves a Unity WebGL simulation where a rover is tasked with collecting debris in space to safeguard both satellites and itself from potential collisions. The primary objective is to maximize points by optimizing the strategy for debris collection while ensuring the safety of the satellite and the rover. 
 
@@ -45,10 +46,6 @@ This project is licensed under the MIT License. See the `LICENSE` file in the "o
 
 ## Contact
 
-- Your Name - [your_email@example.com](mailto:your_email@example.com)
-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+- Your Name - [your_email@example.com](mailto:priyanshukumar7470@gmail.com)
 
-## Acknowledgements
-
-- [Add any special acknowledgements, if any]
 
